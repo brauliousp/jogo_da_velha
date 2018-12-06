@@ -1,0 +1,9 @@
+*.o
+/play_the_game
+/main
+/cmake-build-debug/
+/build/
+/.idea/
+/.vscode/
+gnuplot_data.dat
+
